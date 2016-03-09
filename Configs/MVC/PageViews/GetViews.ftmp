@@ -1,0 +1,9 @@
+<?php
+	//asd
+	@PageGet->*->*.php->@Exec()
+	@PageGet->Home,Home2->index.php->@Exec()
+	@PageGet->Login->Principal\Login.php->@Exec()
+	@PageGet->@OnError->Principal\Error.php->@Exec()
+	@MenuPrincipal->@Geral->Principal\Menus\mnuPrincipal.php->@Exec()
+	@javascriptCad->@Geral->js\palavras.js->@Exec()
+	
