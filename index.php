@@ -1,4 +1,8 @@
 <?php 
+
+/*
+	author: Robson Gomes
+*/
 session_start();
 error_reporting(E_ALL);
 
